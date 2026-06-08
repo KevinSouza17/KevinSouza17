@@ -1,12 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=Arthur%20Andre%20Prado%20da%20Silva&fontSize=40&fontColor=ffffff">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header&text=Kevin%20Gabriel%20de%20Souza&fontSize=40&fontColor=ffffff">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Arthur%20Andre%20Prado%20da%20Silva;Desenvolvedor%20Fullstack%20em%20Forma%C3%A7%C3%A3o;Aluno%20de%20TI%20na%20ETEC%20MCM;Apaixonado%20por%20Tecnologia%20e%20Inova%C3%A7%C3%A3o;Rumo%20%C3%A0%20FATEC%20e%20al%C3%A9m!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=30&center=true&vCenter=true&width=1000&lines=Kevin+Gabriel+de+Souza;Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Aluno+de+TI+na+ETEC+MCM;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Rumo+%C3%A0+FATEC+e+al%C3%A9m!;🌙+Sob+a+luz+da+lua+e+o+c%C3%B3digo)](https://git.io/typing-svg)
 
 ---
 
-## 👋 Sobre Mim
+## 🌙 Sobre Mim
 
-Olá! Meu nome é **Arthur Andre Prado da Silva**, tenho 17 anos e sou um entusiasta e futuro desenvolvedor Fullstack, atualmente cursando Tecnologia da Informação (TI) na ETEC MCM. Minha jornada na programação é movida pela paixão em criar soluções inovadoras e eficientes. Meu objetivo é ingressar na FATEC, aprofundar meus conhecimentos e contribuir para o mundo da tecnologia com projetos impactantes.
+Olá! Meu nome é **Kevin Gabriel de Souza**, tenho 17 anos e sou um entusiasta e futuro desenvolvedor Fullstack, atualmente cursando Tecnologia da Informação (TI) na ETEC MCM. Minha jornada na programação é movida pela paixão em criar soluções inovadoras e eficientes. Meu objetivo é ingressar na FATEC, aprofundar meus conhecimentos e contribuir para o mundo da tecnologia com projetos impactantes.
+
+*"Programar sob a luz da lua é onde a magia acontece."* ✨
 
 ---
 
@@ -59,9 +61,9 @@ Como aluno do 3º ano de TI na ETEC, adquiri uma base sólida e experiência pr�
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurAsilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" alt="ArthurAsilva GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurAsilva&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAsilva&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinGSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="KevinGSouza GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGSouza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGSouza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -69,21 +71,30 @@ Como aluno do 3º ano de TI na ETEC, adquiri uma base sólida e experiência pr�
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://github.com/ArthurAsilva" target="_blank">
+  <a href="https://github.com/KevinGSouza" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/arthur-andre-prado-da-silva-b0b0b0b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-gabriel-souza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/art.tremm/" target="_blank">
+  <a href="https://www.instagram.com/kevin.gsouza/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/5511934891494" target="_blank">
+  <a href="https://wa.me/5511999999999" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
+---
+
+### 🌙 Animação da Lua
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/moon.gif" alt="Lua Animada" width="80">
+  <br>
+  <i>"A lua inspira, o código transforma."</i>
+</p>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
